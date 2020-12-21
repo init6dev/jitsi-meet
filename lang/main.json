@@ -860,7 +860,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "Customizing for VA now. This is a test.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -872,11 +872,11 @@
         "getHelp": "Get help",
         "go": "GO",
         "goSmall": "GO",
-        "headerTitle": "Jitsi Meet",
-        "headerSubtitle": "Secure and high quality meetings",
+        "headerTitle": "VA Meet",
+        "headerSubtitle": "VA Meetings are secure",
         "info": "Dial-in info",
         "join": "CREATE / JOIN",
-        "jitsiOnMobile": "Jitsi on mobile – download our apps and start a meeting from anywhere",
+        "jitsiOnMobile": "VA Meet on mobile – download our apps and start a meeting from anywhere",
         "moderatedMessage": "Or <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">book a meeting URL</a> in advance where you are the only moderator.",
         "privacy": "Privacy",
         "recentList": "Recent",
